@@ -91,7 +91,7 @@ Here below are prerequisites for this exercise.
 
 ### <a name="image-classification"></a> Use SAP Leonardo ML Image Classification on API Business Hub
 
-1. Go back to <https://api.sap.com/shell/discover/contentpackage/SAPLeonardoMLFunctionalServices/Artifacts>
+1. Go back to <https://api.sap.com/package/SAPLeonardoMLFunctionalServices?section=Artifacts>
 	![](images/15.png)
 
 1. 	Enter the text "image" in the search box, hit ENTER and choose **Image Classifier Service**  
