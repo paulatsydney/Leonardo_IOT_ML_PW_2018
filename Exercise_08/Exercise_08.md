@@ -45,10 +45,10 @@ Here below are prerequisites for this exercise.
 |------------|-----------------------------------------------------|
 |Username    |ml-train+XX@sap.com                                  |
 |Password    |\<specific to your username\> provided by the trainer|
-|API endpoint|api.cf.eu10.hana.ondemand.com                        |
+|API endpoint|api.cf.us10.hana.ondemand.com                        |
 |Organization|ml-trainXX (same as your user name without the +)    |
 |Space       |ml-trainXX (same as your user name without the +)    |
-|Cloud Foundry Login command|cf login -a api.cf.eu10.hana.ondemand.com -u ml-train+XX@sap.com|
+|Cloud Foundry Login command|cf login -a api.cf.us10.hana.ondemand.com -u ml-train+XX@sap.com|
 
 ## Steps
 
@@ -73,7 +73,7 @@ In the next section, you will retrain the pre-trained Image Classification Model
 1. Now, login to SAP Cloud Platform with the command
 
 	```sh
-	cf login -a https://api.cf.eu10.hana.ondemand.com -u ml-train+XX@sap.com
+	cf login -a https://api.cf.us10.hana.ondemand.com -u ml-train+XX@sap.com
 	```
 	where **XX** must be replaced with your workstation ID. Enter the password for your user provided by the instructor. In case you are requested to choose an organization, please choose the one named **ml-trainXX**, where **XX** is your workstation ID
 	>NOTE: The password will not be shown  
@@ -136,7 +136,7 @@ In the next section, you will retrain the pre-trained Image Classification Model
 	```sh
 	cf sapml config set auth_server <your authentication URL from the service key>
 	cf sapml config set job_api https://training.eu-central-1.aws.ml.hana.ondemand.com
-	cf sapml config set retraining_image_api https://mlfproduction-retrain-image-api.cfapps.eu10.hana.ondemand.com/api/v2/image/retraining
+	cf sapml config set retraining_image_api https://mlfproduction-retrain-image-api.cfapps.us10.hana.ondemand.com/api/v2/image/retraining
 	```
 
 	Enter
@@ -261,7 +261,7 @@ In the next section, you will use the prepared project and adjust it to call the
 
 	![](images/21.png)
 
-1. With your Firefox browser, navigate to the URL <https://get_token.cfapps.eu10.hana.ondemand.com/> 
+1. With your Firefox browser, navigate to the URL <https://get_token.cfapps.us10.hana.ondemand.com/> 
 
 1. A new window comes up. Enter 
 
