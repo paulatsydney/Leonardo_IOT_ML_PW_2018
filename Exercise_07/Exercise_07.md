@@ -50,6 +50,7 @@ Organization and space will be automatically configured and made available durin
 	![](images/01.png)
 
 1.	Navigate to **Regions -> Cloud Foundry Environment > Europe (Frankfurt)**  
+	Choose US on AWS in case your user is on US data center
 	![](images/02.png)
 
 1.	Click on your global account **SAP\_ML\_Demo**  	![](images/03.png)
