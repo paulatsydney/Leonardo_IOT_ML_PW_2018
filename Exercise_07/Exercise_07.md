@@ -113,7 +113,7 @@ For the next exercises you will need an **OAuth2** token to access the ML Founda
 
 >NOTE: You do not need to do this step now! You'll need it several times in the next exercises and we will reference this chapter when needed.
 
-1. With your Firefox browser, navigate to the URL <https://get_token.cfapps.eu10.hana.ondemand.com/> 
+1. With your Firefox browser, navigate to the URL <https://get_token.cfapps.eu10.hana.ondemand.com/> or <https://generate_ml_token.cfapps.us10.hana.ondemand.com/> for us account 
 
 1. A new window comes up where you need to enter 
 
