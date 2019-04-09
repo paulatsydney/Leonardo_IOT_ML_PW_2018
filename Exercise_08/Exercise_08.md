@@ -261,7 +261,7 @@ In the next section, you will use the prepared project and adjust it to call the
 
 	![](images/21.png)
 
-1. With your Firefox browser, navigate to the URL <https://get_token.cfapps.us10.hana.ondemand.com/> 
+1. With your Firefox browser, navigate to the URL <https://generate_ml_token.cfapps.us10.hana.ondemand.com/> 
 
 1. A new window comes up. Enter 
 
