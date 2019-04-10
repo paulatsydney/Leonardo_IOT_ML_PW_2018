@@ -112,7 +112,7 @@ In the next section, you will retrain the pre-trained Image Classification Model
 	|---------|-----|
 	|Windows|[sapmlcli-win-int-1.1.4.zip](files/sapmlcli-win-int-1.1.4.zip?raw=true)|
 	|OSX|[sapmlcli-darwin-int-1.1.4.zip](files/sapmlcli-darwin-int-1.1.4.zip?raw=true)|
-	|Linux|sapmlcli-linux-int-1.1.4.zip](files/sapmlcli-linux-int-1.1.4.zip?raw=true)|
+	|Linux|[sapmlcli-linux-int-1.1.4.zip](files/sapmlcli-linux-int-1.1.4.zip?raw=true)|
 	
 	Then from the Terminal window run the command
 	
